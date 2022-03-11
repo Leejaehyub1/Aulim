@@ -20,8 +20,13 @@
 [설명]
 - 소프트웨어공학을 수강하며 진행한 프로젝트
 - Project Proposal, Requirement Specification, Design과 같은 Document를 작성하면서 진행함.
-- 문서 작성 과정에서 UML Diagram, Use Case Diagram 등을 처음으로 작성해 보았음.
+- Document 작성 과정에서 UML Diagram, Use Case Diagram 등을 처음으로 작성해 보았음.
 - Crawling, 사용자 그룹을 저장하기 위해 DB 사용.
 - 웹 어플리케이션이며 HTML, CSS, JS 등을 활용.
 - 상세한 설명은 Final Report_Team08 을 참고하기 바람.
 
+[아쉬운 점]
+- 기능 구현에 초점을 맞추다보니 디자인과 같은 시각적인 요소가 많이 부족함.
+- Button, Form 태그들이 사용자에게 불편하게 제작됨. 
+  => 사용자 중심 사고 방식의 중요성을 느끼게 됨.
+- Document 작성에 미숙하여 시간을 많이 소비함.
